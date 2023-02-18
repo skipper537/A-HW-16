@@ -1,0 +1,13 @@
+.wrapper{
+  width: 100%;
+  overflow: hidden;
+}
+.container{
+width: 1440px;
+  height: 100vh;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+align-items: center;
+}
+
